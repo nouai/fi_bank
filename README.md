@@ -95,6 +95,15 @@ In short:
 
 ---
 
+## 📜 Disclaimer
+
+This project is released under the MIT License.  
+It is provided “AS IS”, without warranty of any kind, express or implied.  
+The author assumes no responsibility for any issues, damages, or outcomes resulting from the use of this software.  
+Users are solely responsible for how they interpret and apply the data produced by this tool.
+
+---
+
 ## 🔧 Installation
 
 ### 1. Install Python

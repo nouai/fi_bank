@@ -70,6 +70,31 @@ In short:
 
 ---
 
+## 🖼️ Preview
+
+### banks.html
+<details>
+
+![Preview](preview/preview_1.png)
+
+</details>
+
+### Show button click
+<details>
+
+![Preview](preview/preview_2.png)
+
+</details>
+
+### ./cache/<sha256>.html
+<details>
+
+![Preview](preview/preview_3.png)
+
+</details>
+
+---
+
 ## 🔧 Installation
 
 ### 1. Install Python

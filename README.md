@@ -86,7 +86,7 @@ In short:
 
 </details>
 
-### ./cache/<sha256>.html
+### ./cache/\<sha256\>.html
 <details>
 
 ![Preview](preview/preview_3.png)
